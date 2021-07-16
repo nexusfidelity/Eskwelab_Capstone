@@ -4,9 +4,9 @@ import streamlit.components.v1 as components
 import re
 
 import nltk
-nltk.download('punkt')
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk import word_tokenize
+nltk.download('punkt')
 
 #functions section
 
