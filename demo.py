@@ -7,6 +7,7 @@ import nltk
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk import word_tokenize
 nltk.download('punkt')
+nltk.download('wordnet')
 
 #functions section
 
